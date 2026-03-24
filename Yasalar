@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kiraz Cumhuriyeti Yasaları</title>
+<style>
+  body { font-family: Arial, sans-serif; margin: 20px; background-color: #f9f9f9; color: #222; }
+  h1 { text-align: center; color: #2c3e50; }
+  h2 { color: #2980b9; margin-top: 30px; }
+  section { background-color: #fff; padding: 15px 20px; margin: 15px 0; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+  nav ul { list-style-type: none; padding-left: 0; }
+  nav li { margin: 5px 0; }
+  nav a { color: #e74c3c; text-decoration: none; }
+  nav a:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<h1>Kiraz Cumhuriyeti Yasaları</h1>
+
+<nav>
+  <h2>İçindekiler</h2>
+  <ul>
+    <li><a href="#anayasa">Anayasa</a></li>
+    <li><a href="#msy">Milli Suç Yasası (MSY)</a></li>
+    <li><a href="#ekonomi">Ekonomi ve Ticaret Yasası</a></li>
+    <li><a href="#secim">Seçim Yasası</a></li>
+  </ul>
+</nav>
+
+<section id="anayasa">
+<h2>🏛️ KİRAZ CUMHURİYETİ ANAYASASI</h2>
+<p><strong>Madde 1 – Devletin Niteliği:</strong> Kiraz Cumhuriyeti; demokratik, laik ve sosyal bir hukuk devletidir. Resmî dili Türkçedir.</p>
+<p><strong>Madde 2 – Eşitlik İlkesi:</strong> Hiç kimseye dil, din, ırk, cinsiyet veya herhangi bir sebeple ayrımcılık yapılamaz. Herkes kanun önünde eşittir.</p>
+<p><strong>Madde 3 – Kamu Düzeni ve Yönetim:</strong> Ülkede oluşan sorunlar, yetkili makamlar ve devlet yönetimi aracılığıyla çözülür. İzinsiz ve düzensiz isyan çıkarılamaz.</p>
+<p><strong>Madde 4 – Laiklik:</strong> Devlet tamamen laiktir. Din ve devlet işleri birbirinden ayrıdır. Laikliğe aykırı faaliyetlerde bulunulamaz.</p>
+<p><strong>Madde 5 – Toplantı ve İfade Özgürlüğü:</strong> Halk; milli kongreler düzenleme, düşüncelerini ifade etme ve genelgeler yayınlama hakkına sahiptir. Bu hak kamu düzenini bozmayacak şekilde kullanılır.</p>
+<p><strong>Madde 6 – Bayrak ve Milli Semboller:</strong> Devletin bayrağı tektir. Oy birliği olmadan değiştirilemez. Bayrağa ve milli değerlere hakaret edilemez.</p>
+<p><strong>Madde 7 – Cumhuriyetin Korunması:</strong> Cumhuriyet yönetimi esastır. Cumhuriyet dışı bir yönetim biçimi kabul edilemez.</p>
+<p><strong>Madde 8 – Yasama Yetkisi:</strong> Yasama yetkisi Meclise aittir. Meclisten üstün hiçbir güç yoktur.</p>
+<p><strong>Madde 9 – Mülkiyet Hakkı:</strong> Herkes mal ve mülk edinme, kullanma ve satma hakkına sahiptir. Bu hak kanunlar çerçevesinde korunur.</p>
+<p><strong>Madde 10 – Kişi Hürriyeti:</strong> Kölelik yasaktır. Herkes özgürdür ve temel haklara sahiptir.</p>
+<p><strong>Madde 11 – Hukukun Üstünlüğü:</strong> Herkes kanunlara uymak zorundadır. Hiç kimse kanunların üstünde değildir.</p>
+<p><strong>Madde 12 – Suç ve Ceza:</strong> Suç işleyen kişiler, yürürlükteki kanunlara göre yargılanır. Milli Suç Yasası’na (MSY) uyulması zorunludur.</p>
+<p><strong>Madde 13 – Tarihi Değerlere Saygı:</strong> Mustafa Kemal Atatürk başta olmak üzere, ülkenin kurucu ve milli değerlerine hakaret edilemez.</p>
+<p><strong>Madde 14 – Anayasanın Bağlayıcılığı:</strong> Bu anayasa hükümlerine aykırı hareket eden kişiler, kanunlar çerçevesinde cezalandırılır ve gerekli yaptırımlar uygulanır.</p>
+<p><strong>Madde 15 – Adalet Hakkı:</strong> Herkes adil yargılanma hakkına sahiptir. Savunma hakkı kısıtlanamaz.</p>
+<p><strong>Madde 16 – Cezaların Adilliği:</strong> Verilen cezalar işlenen suç ile orantılı olmak zorundadır.</p>
+<p><strong>Madde 17 – Devletin Vazifesi:</strong> Devlet; adaleti sağlamak, düzeni korumak ve vatandaşların haklarını güvence altına almakla yükümlüdür.</p>
+<p><strong>Madde 18 – Kamu Düzeninin Korunması:</strong> Toplum düzenini bozacak davranışlar yasaktır. Kamu huzuru esastır.</p>
+<p><strong>Madde 19 – Yetki Sorumluluğu:</strong> Devlet görevinde bulunan kişiler yetkilerini kötüye kullanamaz. Aksi halde yargılanırlar.</p>
+<p><strong>Madde 20 – Çevrenin Korunması:</strong> Herkes sağlıklı ve dengeli bir çevrede yaşama hakkına sahiptir. Çevreyi korumak, geliştirmek ve doğal kaynakları verimli kullanmak devletin ve vatandaşların ortak sorumluluğudur. Çevreye zarar veren faaliyetler yasaktır.</p>
+</section>
+
+<section id="msy">
+<h2>🏛️ Milli Suç Yasası (MSY)</h2>
+<p><strong>Madde 1 – Mülkiyet Hakkı:</strong> Hiçbir oyuncu başka bir oyuncunun izni olmadan malını, eşyasını veya yapısını alamaz, zarar veremez. İhlal durumunda çalınan eşya iade edilir ve ek ceza uygulanır.</p>
+<p><strong>Madde 2 – Dava Açma Hakkı:</strong> Her oyuncu, uğradığı haksızlık durumunda dava açma hakkına sahiptir. Davalar mümkünse kanıt (video, ekran görüntüsü vb.) ile desteklenmelidir.</p>
+<p><strong>Madde 3 – Davaların Sonuçlandırılması:</strong> Açılan her dava incelenir ve sonuçlandırılır. Yetersiz veya sahte kanıt sunulan davalar reddedilebilir.</p>
+<p><strong>Madde 4 – Şiddet ve Cinayet Yasağı:</strong> Oyunculara sebepsiz yere zarar vermek ve öldürmek yasaktır. PvP sadece karşılıklı anlaşma veya belirlenmiş alanlarda serbesttir.</p>
+<p><strong>Madde 5 – Dolandırıcılık ve Sahtecilik:</strong> Dolandırıcılık, sahte anlaşma, sahte imza ve benzeri yollarla kazanç sağlamak yasaktır. Tespit edilirse zarar karşılanır ve ağır ceza uygulanır.</p>
+<p><strong>Madde 6 – Yargılama ve Ceza:</strong> MSY kurallarını ihlal eden kişiler mahkemede yargılanır. Ceza, davacı ve yetkili kurul (meclis/adminler) tarafından belirlenir.</p>
+</section>
+
+<section id="ekonomi">
+<h2>💰 Ekonomi ve Ticaret Yasası</h2>
+<p><strong>Madde 1 – Ekonomik Özgürlük:</strong> Herkes serbestçe ticaret yapma, mal alıp satma ve ekonomik faaliyette bulunma hakkına sahiptir.</p>
+<p><strong>Madde 2 – Mülkiyet ve Ticaret Hakkı:</strong> Her birey mal ve mülk sahibi olabilir, sahip olduğu malları satabilir veya devredebilir.</p>
+<p><strong>Madde 3 – Adil Ticaret:</strong> Ticaret işlemleri dürüstlük ve güven esasına dayanır. Taraflar yapılan anlaşmalara uymak zorundadır.</p>
+<p><strong>Madde 4 – Dolandırıcılık Yasağı:</strong> Ticaret sırasında aldatma, kandırma, sahte vaatler ve benzeri davranışlar yasaktır.</p>
+<p><strong>Madde 5 – Fiyat Politikası:</strong> Hiçbir kişi veya grup, piyasayı bozacak şekilde aşırı fiyat artışı veya manipülasyon yapamaz.</p>
+<p><strong>Madde 6 – Sözleşme Esası:</strong> Taraflar arasında yapılan ticari anlaşmalar geçerlidir. Anlaşmaya uymayan taraf sorumlu tutulur.</p>
+<p><strong>Madde 7 – Ortaklıklar:</strong> Birden fazla kişi ortaklık kurabilir. Ortaklık şartları taraflar arasında belirlenir ve bağlayıcıdır.</p>
+<p><strong>Madde 8 – Vergilendirme:</strong> Devlet, ekonomik düzeni sağlamak amacıyla vergi koyma hakkına sahiptir.</p>
+<p><strong>Madde 9 – Haksız Kazanç:</strong> Haksız yollarla elde edilen kazançlar geçersiz sayılır ve geri alınır.</p>
+<p><strong>Madde 10 – Ticari Uyuşmazlıklar:</strong> Ticaretle ilgili anlaşmazlıklar mahkemede çözülür.</p>
+<p><strong>Madde 11 – Ekonomik Düzenin Korunması:</strong> Ekonomik düzeni bozacak faaliyetlerde bulunmak yasaktır.</p>
+<p><strong>Madde 12 – Ceza Hükümleri:</strong> Bu yasaya aykırı hareket edenler, ilgili kanunlar kapsamında yargılanır ve cezalandırılır.</p>
+<p><strong>Madde 13 – Devletin İzni Olmadan Ticari Faaliyet:</strong> Devletin izni olmadan dükkan, ticari vb. işlerin kullanılması ve halka açık hale getirilmesi yasaktır.</p>
+</section>
+
+<section id="secim">
+<h2>🗳️ Seçim Yasası</h2>
+<p><strong>Madde 1 – Seçim Hakkı:</strong> Her vatandaş seçme ve seçilme hakkına sahiptir.</p>
+<p><strong>Madde 2 – Seçim Dönemi:</strong> Seçimler belirlenen sürelerde düzenli olarak yapılır. Seçim tarihi önceden ilan edilir.</p>
+<p><strong>Madde 3 – Adaylık Şartları:</strong> Aday olmak isteyen kişiler, belirlenen kurallara uymak ve adaylıklarını resmi olarak bildirmek zorundadır.</p>
+<p><strong>Madde 4 – Seçim Kampanyası:</strong> Adaylar seçim sürecinde propaganda yapma hakkına sahiptir. Propaganda sırasında hakaret, tehdit ve yanıltıcı bilgi kullanılamaz.</p>
+<p><strong>Madde 5 – Oy Kullanma:</strong> Oy kullanma işlemi gizli yapılır. Her vatandaş yalnızca bir oy kullanabilir.</p>
+<p><strong>Madde 6 – Oyların Sayımı:</strong> Oylar adil ve şeffaf bir şekilde sayılır. Sonuçlar herkese açık olarak ilan edilir.</p>
+<p><strong>Madde 7 – Seçim Güvenliği:</strong> Seçim sürecinde hile, baskı veya oy manipülasyonu yapmak yasaktır.</p>
+<p><strong>Madde 8 – Sonuçların Geçerliliği:</strong> En fazla oyu alan aday seçimi kazanır. Eşitlik durumunda yeniden seçim yapılır.</p>
+<p><strong>Madde 9 – İtiraz Hakkı:</strong> Seçim sonuçlarına itiraz edilebilir. İtirazlar yetkili merciler tarafından incelenir.</p>
+<p><strong>Madde 10 – Görev Süresi:</strong> Seçilen kişiler, belirlenen süre boyunca görev yapar. Süre dolmadan görev sona erdirilemez, ancak hukuki sebeplerle görevden alınabilir.</p>
+<p><strong>Madde 11 – Görevden Alma:</strong> Görevini kötüye kullanan seçilmiş kişiler, yargı kararı ile görevden alınabilir.</p>
+<p><strong>Madde 12 – Yasa İhlali:</strong> Bu yasaya aykırı hareket eden kişiler hakkında gerekli işlemler uygulanır.</p>
+</section>
+
+</body>
+</html>
